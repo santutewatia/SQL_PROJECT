@@ -1,6 +1,8 @@
 # SQL_PROJECT
 🛍️ Superstore E‑commerce Data Analysis Project
+
 📋 Project Overview
+
 This project analyzes a Superstore e‑commerce dataset using MySQL, Python (Pandas, NumPy), and Jupyter Notebook. The goal was to extract actionable insights and demonstrate advanced data handling, cleaning, and analysis techniques for end‑to‑end data analytics and SQL proficiency.
 
 ✅ Key Features
